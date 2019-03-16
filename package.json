@@ -1,0 +1,44 @@
+{
+  "name": "resume",
+  "version": "0.1.0",
+  "private": true,
+  "homepage":"https://sadeghjalali.github.io/resume",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "react": "^16.8.4",
+    "react-body-backgroundcolor": "^1.2.1",
+    "react-dom": "^16.8.4",
+    "react-helmet": "^5.2.0",
+    "react-scripts": "2.1.5",
+    "react-scroll": "^1.7.11",
+    "react-scroll-up": "^1.3.3",
+    "react-scroll-up-button": "^1.6.4",
+    "react-snowstorm": "0.0.3",
+    "reactstrap": "^7.1.0",
+    "styled-button-component": "^3.0.1",
+    "styled-container-component": "^3.0.2",
+    "styled-nav-component": "^3.0.1",
+    "styled-navbar-component": "^3.0.1",
+    "yarn": "^1.13.0"
+  },
+  "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "react-social-icons": "^4.1.0"
+  }
+}

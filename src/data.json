@@ -1,0 +1,109 @@
+{
+  "title": "Hello I'm Sadegh !",
+  "subtitle": "Developer | linux Administrator",
+  "links": {
+    "github": "https://github.com/sadeghjalali",
+    "linkedin": "https://www.linkedin.com/in/sadegh-jalali-34b779182"
+  },
+  "sections": [
+    {
+      "title": "About",
+      "items": [
+        {
+          "content": "thank you teacher"
+        },
+        {
+          "content": "I am sadegh jalali and i was born in tehran"
+        },
+        {
+          "content": "this is my first react webdisign"
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "image": "images/react.png",
+            "title": "React",
+            "ca": "https://reactjs.org/"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/js.png",
+            "title": "javascript",
+            "ca": "https://www.sololearn.com/"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/html.png",
+            "title": "HTML",
+            "ca": "https://www.sololearn.com/"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/css.png",
+            "title": "CSS",
+            "ca": "https://www.sololearn.com/"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/python.png",
+            "title": "Python",
+            "ca": "http://gotoclass.ir/certificates/2jdktnxuvhoqekt539kh/"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/debian.png",
+            "title": "Linux",
+            "ca": "https://cs.lpi.org/caf/Xamman/certification"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/cisco.png",
+            "title": "Cisco",
+            "ca": "https://www.kahkeshan.com/certificationVerification"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/database.jpg",
+            "title": "Database",
+            "ca": "https://www.sololearn.com/"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "images/owasp.png",
+            "title": "Pentest",
+            "ca": "http://noora.ir/verify/"
+          }
+        }
+      ]
+    }
+  ],
+  "icons": [
+    {
+      "down": "images/down.png"
+    },
+    {
+      "up": "images/up.png"
+    }
+  ]
+}

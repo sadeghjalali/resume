@@ -1,0 +1,13 @@
+.third {
+  background-color: #aabbcc;
+}
+h3 {
+  font-size: 3rem;
+}
+
+.cards-wrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
